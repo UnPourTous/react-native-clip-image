@@ -5,6 +5,8 @@
 ## Introduction 
 This component depends on [react-native-svg](https://github.com/react-native-community/react-native-svg)@4.5.0, you can clip a image both on android and ios
 
+![demo](https://github.com/UnPourTous/react-native-clip-image/blob/master/screenshots/clip-image-demo.gif?raw=true)
+
 ## Installation 
 1. Install react-native-svg from `npm`
 
