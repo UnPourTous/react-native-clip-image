@@ -3,7 +3,7 @@
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)  
   
 ## Introduction 
-This component depends on [react-native-svg](https://github.com/react-native-community/react-native-svg), With this component you can clip a image both on android and ios. Since there is an issue about [animation](https://github.com/react-native-community/react-native-svg/issues/251) on higher version, we recommand using react-native-svg@4.5.0
+This component depends on [react-native-svg](https://github.com/react-native-community/react-native-svg). With this component you can clip a image both on android and ios. Since there is an issue about [animation](https://github.com/react-native-community/react-native-svg/issues/251) on higher version, we recommand using react-native-svg@4.5.0
 
 ![demo](https://github.com/UnPourTous/react-native-clip-image/blob/master/screenshots/clip-image-demo.gif?raw=true)
 
