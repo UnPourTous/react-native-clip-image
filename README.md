@@ -23,7 +23,7 @@ This component depends on [react-native-svg](https://github.com/react-native-com
 3. Install react-native-clip-image from `npm`
 
     ```bash
-    npm install react-native-clip-image --save
+    npm install @unpourtous/react-native-clip-image --save
     ```
 
 ## Usage
