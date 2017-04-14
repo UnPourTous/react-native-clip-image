@@ -1,6 +1,6 @@
 {
   "name": "@unpourtous/react-native-clip-image",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "this component use for clipping image with animation.",
   "main": "index.js",
   "scripts": {
