@@ -27,7 +27,6 @@ This component depends on [react-native-svg](https://github.com/react-native-com
     ```
 
 ## Usage
-First, add PopupStub as sibling node of you Root Node
 ``` js
 export default class example extends Component {
   render () {
